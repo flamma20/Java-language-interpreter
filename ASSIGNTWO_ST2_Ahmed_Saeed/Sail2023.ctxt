@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sail2023
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fPath
+comment2.target=void\ showFileName(java.lang.String)
+comment3.params=varName\ vars
+comment3.target=void\ checkVariable(java.lang.String,\ java.util.Map)
+comment4.params=fPath
+comment4.target=void\ processInputFile(java.lang.String)
+comment5.params=inputData\ vars\ newline
+comment5.target=void\ printOrPrintLn(java.lang.String,\ java.util.Map,\ boolean)
+comment6.params=s
+comment6.target=boolean\ isNumeric(java.lang.String)
+numComments=7
